@@ -22,7 +22,7 @@ Before getting started, make sure you have the following:
 3. Give a project Name and Folder to create project in you can choice by click on "..." then select folder where you want to save your project then click "next" 
 4. Give the location where you unzip SDL2 development libraries (at first give base click "..." and open "SDL2-2.28.1" folder then open "x86_64-w64-mingw32" if your computer is 64 bit else go to "i686-w64-mingw32" then select folder
 5. Select inclide click on "..." open include folder of SDL2 and select folder
-6. 
+6. Select lib 
 
 ## Step 3: Configure Project Settings
 
