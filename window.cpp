@@ -1,7 +1,7 @@
 #include <SDL2/SDL.h>
 
 int main(int argc, char* argv[]) {
-    SDL_Init(SDL_INIT_VIDEO); // Initialize SDL
+    SDL_Init(SDL_INIT_EVERYTHING); // Initialize SDL
 
     SDL_Window* window = SDL_CreateWindow(
         "SDL Window",         // Window title
