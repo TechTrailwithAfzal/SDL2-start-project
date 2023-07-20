@@ -30,4 +30,4 @@ Before getting started, make sure you have the following:
 11. go to bin folder of x86_64-w64-mingw32 copy "SDL2.dll" file and paste it on your project folder  
 12. click source you can see main.cpp run it 
 
-### you can copy "window.cpp" to understand more 
+### you can copy "window.cpp" from this github repository to understand more 
